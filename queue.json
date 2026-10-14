@@ -172,6 +172,15 @@
    "video_asset": "2026-10-29_jeu_V09_les-5-complications.mp4",
    "video_url": "https://github.com/mohamdi-1/parlons-reeducation-publication/releases/download/media/2026-10-29_jeu_V09_les-5-complications.mp4",
    "cover": "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-29_jeu_V09_les-5-complications/cover.jpg"
+  },
+  {
+   "id": "2026-10-30_ven_S22_aphasie",
+   "publish_at": "2026-10-30T18:00:00Z",
+   "caption": "بعد الجلطة، قد يفهم المريض لكن الكلمات لا تأتي: إنها الحبسة. امنحوه الوقت، وجملًا قصيرة، وإشاراتٍ وصورًا. وعلاج النطق مفيد.\n\nAprès un AVC, il peut comprendre sans trouver ses mots : c'est l'aphasie. Du temps, des phrases courtes, des gestes et des images. Et l'orthophonie aide.\n\nInformation de santé : ne remplace pas une consultation.\nSources : Engelter et al., Stroke 2006 · Brady et al., Cochrane 2016\n\nإذا كنتم بحاجة إلى طبيب في الطب الفيزيائي وإعادة التأهيل، يمكنكم التواصل مع: ‎+222 44 88 45 50‎\nSi vous avez besoin d’un médecin en MPR, vous pouvez contacter : +222 44 88 45 50\n\n#aphasie #AVC #Mauritanie",
+   "kind": "image",
+   "images": [
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-30_ven_S22_aphasie/01.jpg"
+   ]
   }
  ]
 }
