@@ -233,6 +233,15 @@
    "images": [
     "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-04_mer_S23_pied-tombant-orthese/01.jpg"
    ]
+  },
+  {
+   "id": "2026-11-05_jeu_V12_sarcopenie",
+   "publish_at": "2026-11-05T18:00:00Z",
+   "caption": "الساركوبينيا: العضلة تذوب مع العمر بصمت. تُقاس بقوة القبضة والنهوض من الكرسي، وتُعالَج بتمارين القوّة والبروتين، حتى بعد الثمانين.\n\nLa sarcopénie : le muscle fond avec l'âge, sans bruit. Elle se mesure (préhension, levers de chaise) et se traite par le renforcement et les protéines, même après 80 ans.\n(Scénario illustratif.)\n\nInformation de santé : ne remplace pas une consultation.\nSources : Cruz-Jentoft et al., Sarcopenia: revised European consensus (EWGSOP2), Age Ageing 2019 · Dent et al., ICFSR guidelines, J Nutr Health Aging 2018 · Fiatarone et al., JAMA 1990\n\nإذا كنتم بحاجة إلى طبيب في الطب الفيزيائي وإعادة التأهيل، يمكنكم التواصل مع: ‎+222 44 88 45 50‎\nSi vous avez besoin d’un médecin en MPR, vous pouvez contacter : +222 44 88 45 50\n\n#sarcopénie #MPR #Mauritanie",
+   "kind": "reel",
+   "video_asset": "2026-11-05_jeu_V12_sarcopenie.mp4",
+   "video_url": "https://github.com/mohamdi-1/parlons-reeducation-publication/releases/download/media/2026-11-05_jeu_V12_sarcopenie.mp4",
+   "cover": "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-05_jeu_V12_sarcopenie/cover.jpg"
   }
  ]
 }
