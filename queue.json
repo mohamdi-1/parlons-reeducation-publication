@@ -242,6 +242,23 @@
    "video_asset": "2026-11-05_jeu_V12_sarcopenie.mp4",
    "video_url": "https://github.com/mohamdi-1/parlons-reeducation-publication/releases/download/media/2026-11-05_jeu_V12_sarcopenie.mp4",
    "cover": "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-05_jeu_V12_sarcopenie/cover.jpg"
+  },
+  {
+   "id": "2026-11-06_ven_K7_amputation-6-etapes",
+   "publish_at": "2026-11-06T18:00:00Z",
+   "caption": "بعد البتر، ست مراحل حتى الطرف الاصطناعي: التحضير، والجذمور، والوضعيات، والحركة المبكرة، والطرف على المقاس، ثم المشي والمتابعة.\n\nAprès une amputation, 6 étapes jusqu'à la prothèse : préparer, le moignon, les positions, bouger tôt, la prothèse sur mesure, puis marcher et le suivi.\n\nInformation de santé : ne remplace pas une consultation.\nSources : VA/DoD, Rehabilitation of Individuals with Lower Limb Amputation (2017) · BACPAR (2016) · OMS, Standards for prosthetics and orthotics (2017) · Limakatso et al., PLoS One 2020\n\nإذا كنتم بحاجة إلى طبيب في الطب الفيزيائي وإعادة التأهيل، يمكنكم التواصل مع: ‎+222 44 88 45 50‎\nSi vous avez besoin d’un médecin en MPR, vous pouvez contacter : +222 44 88 45 50\n\n#amputation #prothèse #Mauritanie",
+   "kind": "carousel",
+   "images": [
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-06_ven_K7_amputation-6-etapes/01.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-06_ven_K7_amputation-6-etapes/02.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-06_ven_K7_amputation-6-etapes/03.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-06_ven_K7_amputation-6-etapes/04.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-06_ven_K7_amputation-6-etapes/05.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-06_ven_K7_amputation-6-etapes/06.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-06_ven_K7_amputation-6-etapes/07.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-06_ven_K7_amputation-6-etapes/08.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-11-06_ven_K7_amputation-6-etapes/09.jpg"
+   ]
   }
  ]
 }
