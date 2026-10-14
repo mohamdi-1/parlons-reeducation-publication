@@ -70,6 +70,23 @@
    "video_asset": "2026-10-20_mar_V05_botox-spasticite.mp4",
    "video_url": "https://github.com/mohamdi-1/parlons-reeducation-publication/releases/download/media/2026-10-20_mar_V05_botox-spasticite.mp4",
    "cover": "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-20_mar_V05_botox-spasticite/cover.jpg"
+  },
+  {
+   "id": "2026-10-21_mer_K3_fracture-hanche-3-mois",
+   "publish_at": "2026-10-21T18:00:00Z",
+   "caption": "بعد كسر الورك: الوقوف منذ اليوم التالي، والمشي يُقاس كل أسبوع، ومنع الكسر التالي. طبيب إعادة التأهيل ينسّق الأشهر الثلاثة الحاسمة.\n\nAprès une fracture de la hanche : debout dès le lendemain, une marche mesurée chaque semaine, et la prochaine fracture évitée. Le médecin MPR coordonne les 3 mois qui comptent.\n\nInformation de santé : ne remplace pas une consultation.\nSources : NICE CG124 · Dyer et al., BMC Geriatr 2016 · Handoll et al., Cochrane 2021 · World Falls Guidelines, Age Ageing 2022\n\nإذا كنتم بحاجة إلى طبيب في الطب الفيزيائي وإعادة التأهيل، يمكنكم التواصل مع: ‎+222 44 88 45 50‎\nSi vous avez besoin d’un médecin en MPR, vous pouvez contacter : +222 44 88 45 50\n\n#fracturedelahanche #MPR #Mauritanie",
+   "kind": "carousel",
+   "images": [
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-21_mer_K3_fracture-hanche-3-mois/01.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-21_mer_K3_fracture-hanche-3-mois/02.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-21_mer_K3_fracture-hanche-3-mois/03.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-21_mer_K3_fracture-hanche-3-mois/04.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-21_mer_K3_fracture-hanche-3-mois/05.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-21_mer_K3_fracture-hanche-3-mois/06.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-21_mer_K3_fracture-hanche-3-mois/07.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-21_mer_K3_fracture-hanche-3-mois/08.jpg",
+    "https://raw.githubusercontent.com/mohamdi-1/parlons-reeducation-publication/main/media/2026-10-21_mer_K3_fracture-hanche-3-mois/09.jpg"
+   ]
   }
  ]
 }
