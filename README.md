@@ -1,2 +1,3 @@
-# parlons-reeducation-publication
-Upcoming posts of the Parlons rééducation page (published automatically on Instagram).
+# Parlons reeducation - publication
+
+Upcoming Instagram posts of the page, published automatically before the posting time. Media are removed once published.
