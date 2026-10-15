@@ -5,6 +5,11 @@
    "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
    "tries": 3,
    "last": "2026-10-15T20:28:52+00:00"
+  },
+  "2026-10-15_jeu_V03_canne-mauvais-cote": {
+   "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
+   "tries": 1,
+   "last": "2026-10-15T20:28:52+00:00"
   }
  }
 }
