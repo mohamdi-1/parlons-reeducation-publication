@@ -7,8 +7,8 @@
   },
   "2026-10-15_jeu_V03_canne-mauvais-cote": {
    "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
-   "tries": 2,
-   "last": "2026-10-15T20:35:49+00:00"
+   "tries": 3,
+   "last": "2026-10-16T20:01:30+00:00"
   }
  }
 }
