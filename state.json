@@ -10,9 +10,8 @@
    "tries": 3
   },
   "2026-10-16_ven_K2_scoliose": {
-   "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
-   "tries": 3,
-   "last": "2026-10-17T19:38:33+00:00"
+   "error": "missed",
+   "tries": 3
   },
   "2026-10-17_sam_S11_goniometre": {
    "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
