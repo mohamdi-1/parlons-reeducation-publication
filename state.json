@@ -31,8 +31,8 @@
   },
   "2026-10-21_mer_K3_fracture-hanche-3-mois": {
    "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
-   "tries": 2,
-   "last": "2026-10-21T20:56:53+00:00"
+   "tries": 3,
+   "last": "2026-10-22T20:43:29+00:00"
   }
  }
 }
