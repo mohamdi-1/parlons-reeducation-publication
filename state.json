@@ -36,8 +36,8 @@
   },
   "2026-10-22_jeu_V06_sur-la-pointe-des-pieds": {
    "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
-   "tries": 1,
-   "last": "2026-10-22T20:43:29+00:00"
+   "tries": 2,
+   "last": "2026-10-22T20:54:00+00:00"
   }
  }
 }
