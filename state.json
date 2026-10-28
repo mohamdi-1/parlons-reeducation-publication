@@ -55,8 +55,8 @@
   },
   "2026-10-27_mar_V08_ne-tirez-pas-ce-bras": {
    "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
-   "tries": 2,
-   "last": "2026-10-27T21:31:35+00:00"
+   "tries": 3,
+   "last": "2026-10-28T21:50:52+00:00"
   }
  }
 }
