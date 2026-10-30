@@ -58,9 +58,8 @@
    "tries": 3
   },
   "2026-10-28_mer_K5_equipe-de-readaptation": {
-   "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
-   "tries": 3,
-   "last": "2026-10-29T21:56:19+00:00"
+   "error": "missed",
+   "tries": 3
   },
   "2026-10-29_jeu_V09_les-5-complications": {
    "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
