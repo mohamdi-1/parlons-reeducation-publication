@@ -68,8 +68,8 @@
   },
   "2026-10-30_ven_S22_aphasie": {
    "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
-   "tries": 1,
-   "last": "2026-10-30T21:39:51+00:00"
+   "tries": 2,
+   "last": "2026-10-30T21:43:35+00:00"
   }
  }
 }
