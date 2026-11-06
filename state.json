@@ -91,8 +91,8 @@
   },
   "2026-11-05_jeu_V12_sarcopenie": {
    "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
-   "tries": 2,
-   "last": "2026-11-05T22:57:15+00:00"
+   "tries": 3,
+   "last": "2026-11-06T22:15:25+00:00"
   }
  }
 }
