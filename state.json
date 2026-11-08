@@ -104,8 +104,8 @@
   },
   "2026-11-08_dim_V13_moelle-epiniere-niveau": {
    "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
-   "tries": 1,
-   "last": "2026-11-08T21:19:14+00:00"
+   "tries": 2,
+   "last": "2026-11-08T21:24:24+00:00"
   }
  }
 }
