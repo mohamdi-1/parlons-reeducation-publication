@@ -106,9 +106,8 @@
    "tries": 3
   },
   "2026-11-09_lun_K8_mal-de-dos-6-signaux": {
-   "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
-   "tries": 3,
-   "last": "2026-11-10T22:28:43+00:00"
+   "error": "missed",
+   "tries": 3
   },
   "2026-11-10_mar_V14_epaule-gelee-diabete": {
    "error": "Any of the pages_read_engagement, pages_manage_metadata,\n        pages_read_user_content, pages_manage_ads, pages_show_list or\n        pages_messaging permission(s) must be granted before impersonating a\n        user's page. (code 190)",
